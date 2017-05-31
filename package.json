@@ -1,0 +1,15 @@
+{
+  "name": "tagrem_dev_test",
+  "version": "1.0.0",
+  "description": "Prior to interviewing for any technical position with Tagrem, we ask all candidates to complete a practical test.  The test is purely intended to ensure that candidates have the requisite skills to add value to the organization from their first day on the job.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
